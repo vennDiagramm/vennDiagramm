@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vennDiagramm
 - 👀 I’m interested in art, video games, programming, music and some sports
-- 🌱 I’m currently learning the basics of programming
+- 🌱 Learning more about programming
